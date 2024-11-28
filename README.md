@@ -71,27 +71,6 @@ nltk.download('averaged_perceptron_tagger')
 !python -m spacy download en_core_web_sm
 ```
 
----
-
-## **How to Use**
-1. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/your-username/ai-cognition-project.git
-   ```
-2. **Navigate to the Folder**:
-   ```bash
-   cd ai-cognition-project
-   ```
-3. **Open the Notebook**:
-   ```bash
-   jupyter notebook Group6_5DS3&4_PMBOK6_Project.ipynb
-   ```
-4. **Follow the Notebook Steps**:
-   - Install necessary libraries.
-   - Load and process your dataset.
-   - Perform NLP and analysis.
-
----
 
 ## **Features**
 - **Text Extraction**:
