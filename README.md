@@ -29,14 +29,6 @@ This project uses modern AI and cognitive computing techniques to:
 - **Knowledge Representation**: rdflib, owlready2
 - **Visualization**: wordcloud, matplotlib
 
----
-
-## **Contributors**
-- Salma BELHADJ ALI
-- Islem SAOUDI
-- Arij M.
-
----
 
 ## **Dataset Description**
 The project operates on a dataset of documents (e.g., PDFs) that are read, processed, and analyzed. These documents can include:
